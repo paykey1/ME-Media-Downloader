@@ -2,7 +2,7 @@
 
 A Windows desktop app for parsing, downloading, organizing, and viewing media you are authorized to save.
 
-**Current release: 0.21.1** · [Download and checksums](https://github.com/paykey1/ME-Media-Downloader/releases/latest) · [Release notes](https://github.com/paykey1/ME-Media-Downloader/releases/tag/v0.21.1)
+**Current release: 0.22.0** · [Download and checksums](https://github.com/paykey1/ME-Media-Downloader/releases/latest) · [Release notes](https://github.com/paykey1/ME-Media-Downloader/releases/tag/v0.22.0)
 
 - **Parsing and downloads:** creator profiles and individual posts across Douyin, Xiaohongshu, Bilibili, X, Instagram, and TikTok; media selection, batch downloads, pause and resume.
 - **Saved parsing history:** save results locally, send them to the download center, parse again, or delete saved records.
@@ -11,9 +11,9 @@ A Windows desktop app for parsing, downloading, organizing, and viewing media yo
 - **Sharing community:** discover and share creators, browse tags and public sharer nicknames, rate, like, comment and reply, and import creators into your local library.
 - **Storage and language:** Simplified Chinese and English interfaces; new installations store managed data in the program's AppData folder. Existing users can migrate legacy data from General settings using copy-and-verify recovery.
 
-### What's new in 0.21.1
+### What's new in 0.22.0
 
-Saved parsing history, fixes for large download submissions, more resilient update checks and clearer transfer information, migration and preview-cache fixes, TikTok/Instagram community sharing, and improved community layouts.
+Series Library (Beta) adds search, favorites, episode downloads, full-series assembly with H.264 / H.265 options, and sequential playback. Local episodes are grouped by title and ordered by episode number. Playback settings now include a configurable seek interval (15 seconds by default). Download destinations, large submissions, quitting, and interface layouts have also been improved.
 
 ### Installation and updates
 
@@ -29,7 +29,7 @@ This repository distributes installers, checksums, and public documentation. Old
 
 在 Windows 本机解析、下载、整理、浏览和播放你有权保存的媒体内容。
 
-**当前版本：0.21.1** · [下载安装包与校验文件](https://github.com/paykey1/ME-Media-Downloader/releases/latest) · [本次更新说明](https://github.com/paykey1/ME-Media-Downloader/releases/tag/v0.21.1)
+**当前版本：0.22.0** · [下载安装包与校验文件](https://github.com/paykey1/ME-Media-Downloader/releases/latest) · [本次更新说明](https://github.com/paykey1/ME-Media-Downloader/releases/tag/v0.22.0)
 
 - **解析与下载：**支持抖音、小红书、Bilibili、X、Instagram、TikTok 等平台的博主主页与单作品解析，以及媒体筛选、批量下载、暂停和继续。
 - **解析历史：**本地保存解析结果，可直接提交下载中心、重新解析或删除保存记录。
@@ -38,9 +38,9 @@ This repository distributes installers, checksums, and public documentation. Old
 - **共享社区：**发现与分享博主，查看标签和分享者公开昵称，支持评分、点赞、评论、楼中楼回复，并可将博主导入本地博主库。
 - **存储与语言：**支持简体中文和英文；新安装将应用数据存放在程序目录的 AppData 中，旧用户可在常规设置中通过复制校验与异常恢复机制迁移数据。
 
-### 0.21.1 更新重点
+### 0.22.0 更新重点
 
-新增解析历史，修复大量媒体提交下载失败，优化更新检查与传输信息，修复数据迁移和预览缓存关联，支持 TikTok、Instagram 社区分享，并改善社区页面布局。
+新增剧集库（Beta），支持搜索、收藏、分集下载、全集拼接和顺序连播；本地剧集按作品归类、按集数排列。拼接可选 H.264 / H.265，播放设置可自定义快进快退间隔（默认 15 秒）。同时优化下载位置、大批量提交、退出流程与界面布局。
 
 ### 安装与升级
 
