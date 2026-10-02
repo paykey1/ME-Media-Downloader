@@ -2,6 +2,9 @@
 
 **ME媒体中心新版更新公告**
 
+同步度盘更新：
+链接:https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5 提取码:37b5 
+
 - **媒体预览提速**：优先加载视野中的预览图，复用本地封面缓存，减少重启后和快速滚动时的等待。
 - **播放体验优化**：打开视频默认开始播放；播放器支持独立多窗口、窗口随媒体尺寸调整。
 - **图片浏览优化**：新增半透明左右切换箭头，点击黑色区域不再误关浏览器。
@@ -18,6 +21,9 @@
 ---
 
 **ME Media Center — Update Notes**
+
+Baidu Netdisk download is also available:
+[Download version 0.23.0 from Baidu Netdisk](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · Extraction code: `37b5`
 
 - **Faster media previews**: Prioritize thumbnails currently in view and reuse the local thumbnail cache to reduce waiting after restarting and during fast scrolling.
 - **Improved playback**: Videos start playing when opened. The player supports independent windows and adjusts window dimensions to the media.

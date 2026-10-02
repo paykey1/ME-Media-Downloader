@@ -13,6 +13,9 @@ A Windows desktop app for parsing, downloading, organizing, and viewing media yo
 
 ### What's new in 0.23.0
 
+Baidu Netdisk download is also available:
+[Download version 0.23.0 from Baidu Netdisk](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · Extraction code: `37b5`
+
 - **Faster media previews**: Prioritize thumbnails currently in view and reuse the local thumbnail cache to reduce waiting after restarting and during fast scrolling.
 - **Improved playback**: Videos start playing when opened. The player supports independent windows and adjusts window dimensions to the media.
 - **Improved image browsing**: Added translucent previous/next arrows. Clicking the black background no longer closes the image viewer accidentally.
@@ -60,6 +63,8 @@ This repository distributes installers, checksums, and public documentation. Old
 - **存储与语言：**支持简体中文和英文；新安装将应用数据存放在程序目录的 AppData 中，旧用户可在常规设置中通过复制校验与异常恢复机制迁移数据。
 
 ### 0.23.0 更新重点
+
+百度网盘：[下载 0.23.0 安装包](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · 提取码：`37b5`
 
 - **媒体预览提速**：优先加载视野中的预览图，复用本地封面缓存，减少重启后和快速滚动时的等待。
 - **播放体验优化**：打开视频默认开始播放；播放器支持独立多窗口、窗口随媒体尺寸调整。
