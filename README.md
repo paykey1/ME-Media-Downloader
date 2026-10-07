@@ -3,6 +3,7 @@
 A Windows desktop app for parsing, downloading, organizing, and viewing media you are authorized to save.
 
 **Current release: 0.24.0** · [Download and checksums](https://github.com/paykey1/ME-Media-Downloader/releases/latest) · [Release notes](https://github.com/paykey1/ME-Media-Downloader/releases/tag/v0.24.0)
+BaiduYun：:https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5
 
 - **Parsing and downloads:** creator profiles and individual posts across Douyin, Xiaohongshu, Bilibili, X, Instagram, and TikTok; media selection, batch downloads, pause and resume.
 - **Saved parsing history:** save results locally, send them to the download center, parse again, or delete saved records.
@@ -68,6 +69,7 @@ This repository distributes installers, checksums, and public documentation. Old
 在 Windows 本机解析、下载、整理、浏览和播放你有权保存的媒体内容。
 
 **当前版本：0.24.0** · [下载安装包与校验文件](https://github.com/paykey1/ME-Media-Downloader/releases/latest) · [本次更新说明](https://github.com/paykey1/ME-Media-Downloader/releases/tag/v0.24.0)
+备用下载百度网盘：链接:https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5 提取码:37b5
 
 - **解析与下载：**支持抖音、小红书、Bilibili、X、Instagram、TikTok 等平台的博主主页与单作品解析，以及媒体筛选、批量下载、暂停和继续。
 - **解析历史：**本地保存解析结果，可直接提交下载中心、重新解析或删除保存记录。
