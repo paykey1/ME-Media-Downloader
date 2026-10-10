@@ -12,6 +12,12 @@ Alternative download: [Baidu Netdisk](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlAp
 - **Sharing community:** discover and share creators, browse tags and public sharer nicknames, rate, like, comment and reply, and import creators into your local library.
 - **Storage and language:** Simplified Chinese and English interfaces; new installations store managed data in the program's AppData folder. Existing users can migrate legacy data from General settings using copy-and-verify recovery.
 
+### Manual fix for 0.25.0 (2026-10-10)
+
+[Download the small patch installer (about 4.3 MB)](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.25.0/ME-MediaCenter-Patch-0.25.0-to-0.25.1.exe) · [SHA256 checksum](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.25.0/ME-MediaCenter-Patch-0.25.0-to-0.25.1.exe.sha256)
+
+Fixes a creator-list retrieval failure. Requires the original 0.25.0 installation: exit normally, run the patch, select the existing installation directory, then start normally. The active patch version is 0.25.1. Original application files and user data are preserved. No full installer download is needed. The fix is merged into development and will be included in the next full release.
+
 ### What's new in 0.25.0
 
 - Added batch creator follow-up and update checks. Select platforms and creators, view individual progress and results, and pause, stop or resume a round. One creator's failure does not stop the entire round. Retrying older failed or unfinished files is off by default.
@@ -91,6 +97,12 @@ This repository distributes installers, checksums, and public documentation. Old
 - **博主库：**支持私人云端备份与双向同步，可按平台筛选和搜索。
 - **共享社区：**发现与分享博主，查看标签和分享者公开昵称，支持评分、点赞、评论、楼中楼回复，并可将博主导入本地博主库。
 - **存储与语言：**支持简体中文和英文；新安装将应用数据存放在程序目录的 AppData 中，旧用户可在常规设置中通过复制校验与异常恢复机制迁移数据。
+
+### 0.25.0 手动修复补丁（2026-10-10）
+
+[下载小型补丁安装包（约 4.3 MB）](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.25.0/ME-MediaCenter-Patch-0.25.0-to-0.25.1.exe) · [SHA256 校验文件](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.25.0/ME-MediaCenter-Patch-0.25.0-to-0.25.1.exe.sha256)
+
+修复部分博主清单获取失败。仅适用于原版 0.25.0：正常退出软件，运行补丁，选择原安装目录，再正常启动。补丁生效版本为 0.25.1；不覆盖原程序或用户数据。无需重新下载完整安装包。修复已合入开发版，后续正式版将包含。
 
 ### 0.25.0 更新重点
 
