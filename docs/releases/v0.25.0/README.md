@@ -1,5 +1,7 @@
 # ME媒体中心 0.25.0 更新公告
 
+备用下载：[百度网盘](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · 提取码：`37b5`
+
 - 博主库新增批量追更与检查更新：可选择平台和博主，显示每位博主的进度与结果，支持暂停、停止和接续；个别失败不会中断整轮任务。补下历史失败或未完成文件默认关闭。
 - 检查更新可仅报告新作品，不自动下载；每位博主分别保存成功检查记录。首次可建立基线或指定日期。
 - 媒体管理新增标签管理、虚拟文件夹及回收站。文件夹整理不移动磁盘文件；外部导入可选择移动、复制或仅建立索引。回收站默认保留 30 天，可在设置中调整。
@@ -15,6 +17,8 @@
 ---
 
 # ME Media Center 0.25.0 Release Notes
+
+Alternative download: [Baidu Netdisk](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · Extraction code: `37b5`
 
 - Added batch creator follow-up and update checks. Select platforms and creators, view individual progress and results, and pause, stop or resume a round. One creator's failure does not stop the entire round. Retrying older failed or unfinished files is off by default.
 - Update checks can report new works without downloading. Each creator has a separate successful checkpoint; the first check can establish a baseline or use a chosen date.
