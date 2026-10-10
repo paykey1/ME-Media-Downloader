@@ -3,7 +3,7 @@
 A Windows desktop app for parsing, downloading, organizing, and viewing media you are authorized to save.
 
 **Current release: 0.25.0** · [Download and checksums](https://github.com/paykey1/ME-Media-Downloader/releases/latest) · [Release notes](https://github.com/paykey1/ME-Media-Downloader/releases/tag/v0.25.0)
-BaiduYun：:https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5
+Alternative download: [Baidu Netdisk](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · Extraction code: `37b5`
 
 - **Parsing and downloads:** creator profiles and individual posts across Douyin, Xiaohongshu, Bilibili, X, Instagram, and TikTok; media selection, batch downloads, pause and resume.
 - **Saved parsing history:** save results locally, send them to the download center, parse again, or delete saved records.
@@ -43,7 +43,7 @@ Exit normally before upgrading and preserve AppData and media files. Do not dele
 ### Previously in 0.23.0
 
 Baidu Netdisk download is also available:
-[Download version 0.23.0 from Baidu Netdisk](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · Extraction code: `37b5`
+[Baidu Netdisk mirror](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · Extraction code: `37b5`
 
 - **Faster media previews**: Prioritize thumbnails currently in view and reuse the local thumbnail cache to reduce waiting after restarting and during fast scrolling.
 - **Improved playback**: Videos start playing when opened. The player supports independent windows and adjusts window dimensions to the media.
@@ -83,7 +83,7 @@ This repository distributes installers, checksums, and public documentation. Old
 在 Windows 本机解析、下载、整理、浏览和播放你有权保存的媒体内容。
 
 **当前版本：0.25.0** · [下载安装包与校验文件](https://github.com/paykey1/ME-Media-Downloader/releases/latest) · [本次更新说明](https://github.com/paykey1/ME-Media-Downloader/releases/tag/v0.25.0)
-备用下载百度网盘：链接:https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5 提取码:37b5
+备用下载：[百度网盘](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · 提取码：`37b5`
 
 - **解析与下载：**支持抖音、小红书、Bilibili、X、Instagram、TikTok 等平台的博主主页与单作品解析，以及媒体筛选、批量下载、暂停和继续。
 - **解析历史：**本地保存解析结果，可直接提交下载中心、重新解析或删除保存记录。
@@ -122,7 +122,7 @@ This repository distributes installers, checksums, and public documentation. Old
 
 ### 此前 0.23.0 的更新
 
-百度网盘：[下载 0.23.0 安装包](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · 提取码：`37b5`
+百度网盘：[备用下载](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · 提取码：`37b5`
 
 - **媒体预览提速**：优先加载视野中的预览图，复用本地封面缓存，减少重启后和快速滚动时的等待。
 - **播放体验优化**：打开视频默认开始播放；播放器支持独立多窗口、窗口随媒体尺寸调整。
