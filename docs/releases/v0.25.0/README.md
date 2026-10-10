@@ -1,5 +1,11 @@
 # ME媒体中心 0.25.0 更新公告
 
+### 0.25.0 手动修复补丁（2026-10-10）
+
+[下载小型补丁安装包（约 4.3 MB）](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.25.0/ME-MediaCenter-Patch-0.25.0-to-0.25.1.exe) · [SHA256 校验文件](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.25.0/ME-MediaCenter-Patch-0.25.0-to-0.25.1.exe.sha256)
+
+修复部分博主清单获取失败。仅适用于原版 0.25.0：正常退出软件，运行补丁，选择原安装目录，再正常启动。补丁生效版本为 0.25.1；不覆盖原程序或用户数据。无需重新下载完整安装包。修复已合入开发版，后续正式版将包含。
+
 备用下载：[百度网盘](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · 提取码：`37b5`
 
 - 博主库新增批量追更与检查更新：可选择平台和博主，显示每位博主的进度与结果，支持暂停、停止和接续；个别失败不会中断整轮任务。补下历史失败或未完成文件默认关闭。
@@ -17,6 +23,12 @@
 ---
 
 # ME Media Center 0.25.0 Release Notes
+
+### Manual fix for 0.25.0 (2026-10-10)
+
+[Download the small patch installer (about 4.3 MB)](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.25.0/ME-MediaCenter-Patch-0.25.0-to-0.25.1.exe) · [SHA256 checksum](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.25.0/ME-MediaCenter-Patch-0.25.0-to-0.25.1.exe.sha256)
+
+Fixes a creator-list retrieval failure. Requires the original 0.25.0 installation: exit normally, run the patch, select the existing installation directory, then start normally. The active patch version is 0.25.1. Original application files and user data are preserved. No full installer download is needed. The fix is merged into development and will be included in the next full release.
 
 Alternative download: [Baidu Netdisk](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · Extraction code: `37b5`
 
