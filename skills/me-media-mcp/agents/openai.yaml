@@ -1,0 +1,4 @@
+interface:
+  display_name: "ME Media Center MCP"
+  short_description: "Connect agents to ME's local media library and plugins"
+  default_prompt: "Use $me-media-mcp to find media in my ME library using my configured local connection."

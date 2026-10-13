@@ -14,6 +14,8 @@ Alternative download: [Baidu Netdisk](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlAp
 
 ### Local API / MCP documentation
 
+[Install the Agent Skill / 安装智能体技能](skills/README.md) · [me-media-mcp SKILL.md](skills/me-media-mcp/SKILL.md)
+
 [English guide](docs/local-api/guide.en-US.md) · [中文说明](docs/local-api/guide.zh-CN.md) · [Version support](docs/local-api/README.md)
 
 ### Manual fix for 0.25.0 (2026-10-10)
