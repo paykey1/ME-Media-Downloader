@@ -2,7 +2,7 @@
 
 A Windows desktop app for parsing, downloading, organizing, and viewing media you are authorized to save.
 
-**Current release: 0.26.0** · [Download and checksums](https://github.com/paykey1/ME-Media-Downloader/releases/latest) · [Release notes](https://github.com/paykey1/ME-Media-Downloader/releases/tag/v0.26.0)
+**Current release: 0.27.2** · [Download and checksums](https://github.com/paykey1/ME-Media-Downloader/releases/latest) · [Release notes](https://github.com/paykey1/ME-Media-Downloader/releases/tag/v0.27.2)
 Alternative download: [Baidu Netdisk](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · Extraction code: `37b5`
 
 - **Parsing and downloads:** creator profiles and individual posts across Douyin, Xiaohongshu, Bilibili, X, Instagram, and TikTok; media selection, batch downloads, pause and resume.
@@ -12,19 +12,31 @@ Alternative download: [Baidu Netdisk](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlAp
 - **Sharing community:** discover and share creators, browse tags and public sharer nicknames, rate, like, comment and reply, and import creators into your local library.
 - **Storage and language:** Simplified Chinese and English interfaces; new installations store managed data in the program's AppData folder. Existing users can migrate legacy data from General settings using copy-and-verify recovery.
 
+### What's new in 0.27.2
+
+[Download the full Windows installer](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.27.2/ME-MediaDownloader-Setup-0.27.2.exe) for a fresh installation or a direct upgrade from **0.27.0 or 0.27.1**. Quit ME normally and select your existing installation folder to keep your data, settings, and plugins.
+
+- Adjust simultaneous downloads and supported connections per file for each batch. Segmented recovery, retries, and speed reporting have been improved.
+- Use web media detection and the browser helper to identify the current media, choose an available version, and queue downloads.
+- Fantia improves date filtering, resume, and retries, and supports downloading platform-provided post covers.
+- Baidu Netdisk improves multi-file upload concurrency and multipart recovery. Deleted plugin submissions can be submitted again.
+- Updated the Electron runtime and networking dependencies.
+
+QQ community **1077058339**. The Baidu Netdisk link above provides an alternative download location. See the shared folder for available files.
+
 ### Local API / MCP documentation
 
 [Install the Agent Skill / 安装智能体技能](skills/README.md) · [me-media-mcp SKILL.md](skills/me-media-mcp/SKILL.md)
 
 [English guide](docs/local-api/guide.en-US.md) · [中文说明](docs/local-api/guide.zh-CN.md) · [Version support](docs/local-api/README.md)
 
-### Manual fix for 0.25.0 (2026-10-10)
+### Historical patch for 0.25.0 (2026-10-10)
 
 [Download the small patch installer (about 4.3 MB)](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.25.0/ME-MediaCenter-Patch-0.25.0-to-0.25.1.exe) · [SHA256 checksum](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.25.0/ME-MediaCenter-Patch-0.25.0-to-0.25.1.exe.sha256)
 
-Fixes a creator-list retrieval failure. Requires the original 0.25.0 installation: exit normally, run the patch, select the existing installation directory, then start normally. The active patch version is 0.25.1. Original application files and user data are preserved. No full installer download is needed. The fix is merged into development and will be included in the next full release.
+Fixes a creator-list retrieval failure. Requires the original 0.25.0 installation: exit normally, run the patch, select the existing installation directory, then start normally. The active patch version is 0.25.1. Original application files and user data are preserved. No full installer download is needed. This is a historical patch for the original 0.25.0 installation.
 
-### What's new in 0.25.0
+### Previously in 0.25.0
 
 - Added batch creator follow-up and update checks. Select platforms and creators, view individual progress and results, and pause, stop or resume a round. One creator's failure does not stop the entire round. Retrying older failed or unfinished files is off by default.
 - Update checks can report new works without downloading. Each creator has a separate successful checkpoint; the first check can establish a baseline or use a chosen date.
@@ -94,7 +106,7 @@ This repository distributes installers, checksums, and public documentation. Old
 
 在 Windows 本机解析、下载、整理、浏览和播放你有权保存的媒体内容。
 
-**当前版本：0.26.0** · [下载安装包与校验文件](https://github.com/paykey1/ME-Media-Downloader/releases/latest) · [本次更新说明](https://github.com/paykey1/ME-Media-Downloader/releases/tag/v0.26.0)
+**当前版本：0.27.2** · [下载安装包与校验文件](https://github.com/paykey1/ME-Media-Downloader/releases/latest) · [本次更新说明](https://github.com/paykey1/ME-Media-Downloader/releases/tag/v0.27.2)
 备用下载：[百度网盘](https://pan.baidu.com/s/1gZxu-O0ZKVIxitlApfcwwg?pwd=37b5) · 提取码：`37b5`
 
 - **解析与下载：**支持抖音、小红书、Bilibili、X、Instagram、TikTok 等平台的博主主页与单作品解析，以及媒体筛选、批量下载、暂停和继续。
@@ -104,17 +116,29 @@ This repository distributes installers, checksums, and public documentation. Old
 - **共享社区：**发现与分享博主，查看标签和分享者公开昵称，支持评分、点赞、评论、楼中楼回复，并可将博主导入本地博主库。
 - **存储与语言：**支持简体中文和英文；新安装将应用数据存放在程序目录的 AppData 中，旧用户可在常规设置中通过复制校验与异常恢复机制迁移数据。
 
+### 0.27.2 更新重点
+
+[下载 Windows 完整安装包](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.27.2/ME-MediaDownloader-Setup-0.27.2.exe)，支持全新安装及从 **0.27.0 或 0.27.1** 直接升级。升级前正常退出 ME，选择原安装目录，保留已有资料、设置和插件。
+
+- 下载中心新增批次设置，可分别调整同时下载的文件数，以及支持分段传输时的单文件连接数。优化分段恢复、失败重试和速率统计。
+- 新增网页媒体探测与浏览器助手联动，可识别当前媒体、选择可用版本并提交下载。
+- Fantia 优化日期扫描、断点恢复和重试，支持下载平台提供的帖子封面。
+- 百度网盘优化多文件上传并发及分片恢复。已删除的插件投稿支持重新提交。
+- 更新 Electron 运行时和网络依赖。
+
+交流 QQ 群 **1077058339**。上方百度网盘链接提供备用下载，具体文件以共享目录内实际内容为准。
+
 ### 本地 API / MCP 接口说明
 
 [中文接入指南](docs/local-api/guide.zh-CN.md) · [English guide](docs/local-api/guide.en-US.md) · [版本支持范围](docs/local-api/README.md)
 
-### 0.25.0 手动修复补丁（2026-10-10）
+### 历史补丁 · 0.25.0（2026-10-10）
 
 [下载小型补丁安装包（约 4.3 MB）](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.25.0/ME-MediaCenter-Patch-0.25.0-to-0.25.1.exe) · [SHA256 校验文件](https://github.com/paykey1/ME-Media-Downloader/releases/download/v0.25.0/ME-MediaCenter-Patch-0.25.0-to-0.25.1.exe.sha256)
 
-修复部分博主清单获取失败。仅适用于原版 0.25.0：正常退出软件，运行补丁，选择原安装目录，再正常启动。补丁生效版本为 0.25.1；不覆盖原程序或用户数据。无需重新下载完整安装包。修复已合入开发版，后续正式版将包含。
+修复部分博主清单获取失败。仅适用于原版 0.25.0：正常退出软件，运行补丁，选择原安装目录，再正常启动。补丁生效版本为 0.25.1；不覆盖原程序或用户数据。无需重新下载完整安装包。此补丁为原版 0.25.0 的历史修复。
 
-### 0.25.0 更新重点
+### 此前 0.25.0 的更新
 
 - 博主库新增批量追更与检查更新：可选择平台和博主，显示每位博主的进度与结果，支持暂停、停止和接续；个别失败不会中断整轮任务。补下历史失败或未完成文件默认关闭。
 - 检查更新可仅报告新作品，不自动下载；每位博主分别保存成功检查记录。首次可建立基线或指定日期。
